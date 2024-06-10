@@ -105,6 +105,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>auth-service-ms</finalName>
 	</build>
 
 </project>
