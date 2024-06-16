@@ -21,7 +21,7 @@ services:
     depends_on:
       - mysql-db
     ports:
-      - '9199:9199'
+      - '9198:9198'
     volumes:
       - /data/auth-service-ms
     container_name: auth-service-ms
